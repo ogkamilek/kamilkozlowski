@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">KozlowskiKamil toolbar</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="action_share">Udostępnij</string>
+    <string name="action_exit">Wyjdź</string>
+
+    <string name="Przycisk_strona_glowna">Strona Główna</string>
+    <string name="Przycisk_oceny">Oceny</string>
+    <string name="Przycisk_informacje">Informacje</string>
+    <string name="Przycisk_zamknij">Zamknij</string>
+
+    <string name="Textview_przykładowa_nazwa_uzytkownika">Jarek Ogarek</string>
+    <string name="Textview_tekst_powitalny">Witaj,</string>
+    <string name="Textview_tekst_login">Zalogowano!</string>
+    
+    <string name="Textview_imie">Imię</string>
+    <string name="Textview_nazwisko">Nazwisko</string>
+    <string name="Textview_nazwauzytkownika">Nazwa użytkownika</string>
+    <string name="Textview_klasa">Klasa</string>
+</resources>
